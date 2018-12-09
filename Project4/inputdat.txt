@@ -1,0 +1,16 @@
+student1 72
+student2 83
+student3 65
+student4 77
+student5 92
+student6 89
+student7 95
+student8 64
+student9 84
+student10 91
+student11 88
+student12 69
+student13 74
+student14 87
+student15 73
+student16 76
